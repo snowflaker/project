@@ -1,2 +1,2 @@
 # project
-change something and create conflict
+change something
